@@ -1,0 +1,20 @@
+[
+ 
+  {
+    "title": "Escape",
+    "imageSrc": "projects/escape.png",
+    "description": "E-scape is an intuitive and interactive e-book website designed to provide users with a vast collection of books across various genres.",
+    "skills": ["HTML", "CSS", "Javascript", "Node"],
+    "demo": "https://e-scape-five.vercel.app/",
+    "source": "https://github.com/amittkunwar/E-scape"
+  },
+  {
+    "title": "Heath Tracker",
+    "imageSrc": "projects/health.png",
+    "description": "Health Checker is a web application designed to help users track and maintain their workout records efficiently with user-friendly interface.",
+
+    "skills": ["AngularJS", "HTML", "CSS", "JavaScript"],
+    "demo": "https://health-checker-phi.vercel.app/",
+    "source": "https://github.com/amittkunwar/Health-checker"
+  }
+]
